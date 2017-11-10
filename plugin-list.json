@@ -11,6 +11,7 @@
 {"b":1,"p":"model","d":"Create sophisticated templates for CKEditor."},
 {"b":0,"p":"multipage","d":"Allows you to create and manage multiple pages in CMSUno. Simple and practical for a complete website."},
 {"b":0,"p":"newsletter","d":"Send a formated newsletter to a list of subscriber. Use PHP mail(), Gmail in SMTP or another SMTP provider. Add PHPMailer to CMSUno (if exists, used by some plugins)."},
+{"b":0,"p":"paycoin","d":"Accept Bitcoin Payment with CMSUno."},
 {"b":0,"p":"payment","d":"Allows to create a small e-commerce site from CKEditor."},
 {"b":0,"p":"paypal","d":"Adds a button in CKEditor to create as many Paypal buttons as you need. Sales are checked and recorded with IPN return."},
 {"b":0,"p":"payplug","d":"Like Paypal. Adds a button in CKEditor to create as many Payplug buttons. IPN return."},
