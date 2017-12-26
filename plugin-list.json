@@ -5,6 +5,7 @@
 {"b":0,"p":"code_display","d":"Adds a button in CKEditor to display code with google-code-prettify."},
 {"b":0,"p":"comment","d":"Allows visitors to add comments in the page."},
 {"b":1,"p":"contact","d":"Allows to create a custom-made contact form with Captcha."},
+{"b":0,"p":"editheme","d":"Edit and modify templates directly from CMSUno with syntax highlighting."},
 {"b":0,"p":"fixed_layout","d":"Allows to create a page with a fixed background that changes with scrolling."},
 {"b":0,"p":"googlemap","d":"Adds a button in CKEditor to insert one or more Google-Map in your page."},
 {"b":0,"p":"markdown","d":"Allows you to display the formatted content of one or more MarkDown files in your page. WordPress format is also parsed."},
