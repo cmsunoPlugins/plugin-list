@@ -7,6 +7,7 @@
 {"b":1,"p":"contact","d":"Allows to create a custom-made contact form with Captcha."},
 {"b":0,"p":"cookiebar","d":"Adds and setup a custom Cookie Consent Warning."},
 {"b":0,"p":"editheme","d":"Edit and modify templates directly from CMSUno with syntax highlighting."},
+{"b":0,"p":"fontawesome","d":"Insert FontAwesome icons on the site with the editor."},
 {"b":0,"p":"fixed_layout","d":"Allows to create a page with a fixed background that changes with scrolling."},
 {"b":0,"p":"googlemap","d":"Adds a button in CKEditor to insert one or more Google-Map in your page."},
 {"b":0,"p":"htaccess","d":"Easily edit your .htaccess file."},
