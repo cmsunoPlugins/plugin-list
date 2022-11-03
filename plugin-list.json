@@ -12,6 +12,7 @@
 {"b":0,"p":"googlemap","d":"Adds a button in CKEditor to insert one or more Google-Map in your page."},
 {"b":0,"p":"htaccess","d":"Easily edit your .htaccess file."},
 {"b":1,"p":"image_size","d":"Automatic resizing of images added to your page to fit the display, optimize loading and improve SEO."},
+{"b":0,"p":"leafletmap","d":"Add OpenStreetMap maps to your site to view a location or a GPX track."},
 {"b":0,"p":"markdown","d":"Allows you to display the formatted content of one or more MarkDown files in your page. WordPress format is also parsed."},
 {"b":1,"p":"model","d":"Create sophisticated templates for CKEditor."},
 {"b":0,"p":"multipage","d":"Allows you to create and manage multiple pages in CMSUno. Simple and practical for a complete website."},
