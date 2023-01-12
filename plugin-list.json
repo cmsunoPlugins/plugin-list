@@ -20,7 +20,7 @@
 {"b":0,"p":"paycoin","d":"Accept Bitcoin Payment with CMSUno."},
 {"b":0,"p":"payment","d":"Allows to create a small e-commerce site from CKEditor."},
 {"b":0,"p":"paypal","d":"Adds a button in CKEditor to create as many Paypal buttons as you need. Sales are checked and recorded with IPN return."},
-{"b":0,"p":"payplug","d":"Like Paypal. Adds a button in CKEditor to create as many Payplug buttons. IPN return."},
+{"b":0,"p":"payplug","d":"Payplug gateway in addition to the Payment plugin. Efficient and economical for sale by CB or Mastercard.. IPN return."},
 {"b":0,"p":"pdf_creator","d":"Create PDF from a CKEditor content. Custom Shortcode (name, phone...) to save time. Numerous options (page format, font, margin...)."},
 {"b":1,"p":"scrollnav","d":"Replaces the menu with a drop down menu which scrolled with the page."},
 {"b":0,"p":"sound_player","d":"Adds a button in CKEditor to listen Self-Hosted musique on the site. Use SoundManager2."},
